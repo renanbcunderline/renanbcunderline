@@ -1,4 +1,4 @@
-## Eu sou Renan, aluno de Ciência da Computação na UFCG e estagiário na CodeX 🤠
+## Eu sou Renan, aluno de Ciência da Computação na UFCG e estagiário na  <a href = "https://codexjr.com.br/">CodeX</a> 🤠
 
 <div align="center">
   <a href="https://github.com/renanbcunderline">
