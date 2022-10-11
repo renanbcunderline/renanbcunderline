@@ -9,9 +9,6 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Renan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Renan-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Renan-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Renan-Prolog" height="30" width="40" src="https://lh3.googleusercontent.com/pw/AL9nZEU_2uvpvDqGqXHxgYARdNcc4oB6Lu9z15iNV2fw0VHmSNIB9YfsStatHukqQQ5HctST_msCTEXJV4-2wpfjsVldCb94dFxJgrKvd6tr9MZFKSe5nerTUc_SEqXwVwC3c5AMdwCsewNvDCj4L-figQ=s512-no?authuser=0">
-  <img align="center" alt="Renan-Haskell" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg">
 </div>          
   
   ##
