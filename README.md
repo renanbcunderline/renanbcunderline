@@ -1,5 +1,5 @@
 <h2>Olá, eu sou Renan.<br />
-  Aluno de Ciência da Computação na UFCG</h2>
+  cientista da computação pela UFCG</h2>
 
 <div align="center">
   <a href="https://github.com/renanbcunderline">
